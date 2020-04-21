@@ -15,6 +15,10 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 * **Fonction coût**: MSELoss
 * **Optimisateur** : Adam, weight_decay = 1e-5
 * **Taux d'apprentissage** : 1e-3
+##### Résultats finaux
+###### MSE
+* **Moyenne** : 0.13873392219344774
+* **Variance** : 2.7876201898140933e-07
 
 #### conv_autoencoder-2.pth
 
@@ -26,6 +30,10 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 * **Fonction coût**: MSELoss
 * **Optimisateur** : Adam, weight_decay = 1e-5
 * **Taux d'apprentissage** : 1e-3
+##### Résultats finaux
+###### MSE
+* **Moyenne** : 0.004974390162775914
+* **Variance** : 4.62117756500811e-08
 
 #### conv_autoencoder-3.pth
 
@@ -38,6 +46,11 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 * **Optimisateur** : Adam, weight_decay = 1e-5
 * **Taux d'apprentissage** : 1e-3
 
+##### Résultats finaux
+###### MSE
+* **Moyenne** : 0.01516372427965204
+* **Variance** : 1.8457829094184494e-07
+
 #### conv_autoencoder-4.pth
 
 * **Jeu de données** : images réelles, 389 éléments
@@ -48,3 +61,8 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 * **Fonction coût**: MSELoss
 * **Optimisateur** : Adam, weight_decay = 1e-5
 * **Taux d'apprentissage** : 1e-3
+
+##### Résultats finaux
+###### MSE
+* **Moyenne** : 0.04658940608302752
+* **Variance** : 9.142156281887687e-08
