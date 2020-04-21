@@ -66,3 +66,19 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 ###### MSE
 * **Moyenne** : 0.04658940608302752
 * **Variance** : 9.142156281887687e-08
+
+#### conv_autoencoder-5.pth
+
+* **Jeu de données** : images réelles masquées, 389 éléments
+* **Taille des images** : 256*256
+* **Transformations** : CenterCrop, Resize, Normalize
+* **Tailles des lots de données** : 128
+* **Nombre de génération** : 100
+* **Fonction coût**: MSELoss
+* **Optimisateur** : Adam, weight_decay = 1e-5
+* **Taux d'apprentissage** : 1e-3
+
+##### Résultats finaux
+###### MSE
+* **Moyenne** :
+* **Variance** :
