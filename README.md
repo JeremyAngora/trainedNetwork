@@ -96,5 +96,5 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 
 ##### Résultats finaux
 ###### MSE
-* **Moyenne** :
-* **Variance** :
+* **Moyenne** : 0.013455323680924872
+* **Variance** : 1.1636956767513199e-06
