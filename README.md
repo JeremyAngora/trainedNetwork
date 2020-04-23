@@ -48,8 +48,8 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 
 ##### Résultats finaux
 ###### MSE
-* **Moyenne** : 0.01516372427965204
-* **Variance** : 1.8457829094184494e-07
+* **Moyenne** : 0.03890876242880776
+* **Variance** : 4.052118552826295e-05  
 
 #### conv_autoencoder-4.pth
 
@@ -64,8 +64,8 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 
 ##### Résultats finaux
 ###### MSE
-* **Moyenne** : 0.04658940608302752
-* **Variance** : 9.142156281887687e-08
+* **Moyenne** : 0.01301718304809081
+* **Variance** : 6.594012461948263e-05
 
 #### conv_autoencoder-5.pth
 
@@ -80,8 +80,8 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 
 ##### Résultats finaux
 ###### MSE
-* **Moyenne** : 0.01578084727904449
-* **Variance** : 1.4966934534295013e-06
+* **Moyenne** : 0.022096401391947854
+* **Variance** : 1.8770773028205295e-05
 
 #### conv_autoencoder-6.pth
 
@@ -96,8 +96,8 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 
 ##### Résultats finaux
 ###### MSE
-* **Moyenne** : 0.013455323680924872
-* **Variance** : 1.1636956767513199e-06
+* **Moyenne** : 0.01936398114133728
+* **Variance** : 3.251132711535617e-05
 
 #### conv_autoencoder-7.pth
 
@@ -112,8 +112,8 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 
 ##### Résultats finaux
 ###### MSE
-* **Moyenne** :
-* **Variance** :
+* **Moyenne** : 0.01640854784353672
+* **Variance** : 3.3630212934014234e-05
 
 #### conv_autoencoder-8.pth
 
@@ -128,5 +128,5 @@ Ce dépôt contient des réseaux de neurones entraînés pour le projet Dolos
 
 ##### Résultats finaux
 ###### MSE
-* **Moyenne** :
-* **Variance** :
+* **Moyenne** : 0.017418385803434855
+* **Variance** : 0.0007574164846972581
